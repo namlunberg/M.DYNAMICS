@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Mont';
+    src: url('../fonts/subset-Mont-Bold.woff2') format('woff2'),
+        url('../fonts/subset-Mont-Bold.woff') format('woff'),
+        url('../fonts/subset-Mont-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('../fonts/subset-Mont-Light.woff2') format('woff2'),
+        url('../fonts/subset-Mont-Light.woff') format('woff'),
+        url('../fonts/subset-Mont-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('../fonts/subset-Mont-Black.woff2') format('woff2'),
+        url('../fonts/subset-Mont-Black.woff') format('woff'),
+        url('../fonts/subset-Mont-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('../fonts/subset-Mont-Heavy.woff2') format('woff2'),
+        url('../fonts/subset-Mont-Heavy.woff') format('woff'),
+        url('../fonts/subset-Mont-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/subset-Roboto-Black.woff2') format('woff2'),
+        url('../fonts/subset-Roboto-Black.woff') format('woff'),
+        url('../fonts/subset-Roboto-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
